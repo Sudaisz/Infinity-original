@@ -1,0 +1,54 @@
+{
+    "__JSON__": true,
+    "AUTHOR": "Toxxic Md",
+    "theme": "RIAS",
+    "LANGUAGE": "English",
+    "LANGCODE": "en",  
+    "STRINGS": { 
+        "updater": { 
+            "UPDATE": "Bot is up to date.",
+            "UPDATED_LOCAL": "Updated Bot successfully"
+        },  
+        "global": {      
+            "botName": "INFINITY AND BEYOND",
+            "body": "Simple WhatsApp Bot by BEYOND", 
+            "greet2" : "Konnichiwa",
+            "pic1": "https://tinyurl.com/ry4d6j4d", 
+            "pic2": "https://tinyurl.com/ry4d6j4d", 
+            "pic3": "https://tinyurl.com/ry4d6j4d", 
+            "pic4": "https://tinyurl.com/ry4d6j4d", 
+            "pic5": "https://tinyurl.com/ry4d6j4d", 
+            "pic6": "https://tinyurl.com/ry4d6j4d", 
+            "pic7": "https://tinyurl.com/ry4d6j4d",
+            "greet" : "Hey there",
+            "dotbody" : "Oh Sir beyond My Creator.",
+            "emojii" : "🥳", 
+            "promote": "infinity is an Admin",
+            "pmallow": "Hello &user Do not Spam",
+            "permited": "Hello Sir you Can Message Me Now.", 
+            "revoked" : "Hello sir your Permission was rejected.",
+            "demote": "Admin Role Taken back",
+            "antlink": "Link Detected.\n *I Have removed the violator*",
+            "session": "\n keep your session id safe sir",
+            "mention": "Tag my owner",
+            "title": "INFINITY_AND_BEYOND-BOT",
+            "footer": "INFINITY_AND_BEYIND-BOT",
+            "by": "Made by: BEYOND MD",
+            "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+            "success": "Done ✓",
+            "dot": "Hi, Did you mean *-help?*\n just.. don't bother me while I'm eating ramen",
+            "couple_male": "*I'm pretty sure I can't live without being helped!*",
+            "couple_female": "*I'm pretty sure I can't live without being helped!*",
+            "admin": "Only Group Admin can use this Command.",
+            "botAdmin": "Make me an Admin to take action.",
+            "owner": "It's for my owner only.",
+            "group": "It's for group chats only.",
+            "private": "It for my Owner only.",
+            "bot": "It is for my Owner Only.",
+            "wait": "Processing..."
+        },
+        "error": {
+            "text": "Dont touch me."
+        }
+    } 
+  }
