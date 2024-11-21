@@ -11,9 +11,9 @@
 <priasgremorybot align="center">
 <a href="https://github.com/Sudaisz/INFINITY_AND_BEYOND-MD.git"><img title="Author" src="https://img.shields.io/badge/Rias Gremory-black?style=for-the-badge&logo=github"></a>
 <p align="center">
-<a href="https://github.com/Toxic1239/followers"><img title="Followers" src="https://img.shields.io/github/followers/Toxic1239?color=blue&style=flat-square"></a>
-<a href="https://github.com/Toxic1239/RIASGREMORYBOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Toxic1239/RIASGREMORYBOT?color=red&style=flat-square"></a>
-<a href="https://github.com/Toxic1239/RIASGREMORYBOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Toxic1239/RIASGREMORYBOT?color=green&style=flat-square"></a>
+<a href="https://github.com/Toxic1239/followers"><img title="Followers" src="https://img.shields.io/github/followers/Sudaisz?color=blue&style=flat-square"></a>
+<a href="https://github.com/Sudaisz/Infinity-original.git/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sudaisz/Infinity-origina?color=red&style=flat-square"></a>
+<a href="https://github.com/Sudaisz/Infinity-original.git/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Sudaisz/Infinity-original?color=green&style=flat-square"></a>
 <a href="https://github.com/Sudaisz/INFINITY_AND_BEYOND-MD.git/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/github.com/Sudaisz/INFINITY_AND_BEYOND-MD.git?label=Watchers&color=yellow&style=flat-square"></a>
 
 #### SETUP 
