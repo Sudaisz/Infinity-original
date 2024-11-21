@@ -9,17 +9,17 @@
     <img alt="INFINITY" width="960" height="720" src="https://tinyurl.com/ry4d6j4d">
 <p align="center">
 <priasgremorybot align="center">
-<a href="https://github.com/Sudaisz/INFINITY_AND_BEYOND-MD.git"><img title="Author" src="https://img.shields.io/badge/Infinity Md-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Sudaisz/Infinity-original.git"><img title="Author" src="https://img.shields.io/badge/Infinity Md-black?style=for-the-badge&logo=github"></a>
 <p align="center">
-<a href="https://github.com/Toxic1239/followers"><img title="Followers" src="https://img.shields.io/github/followers/Sudaisz?color=blue&style=flat-square"></a>
+<a href="https://github.com/Sudaisz/followers"><img title="Followers" src="https://img.shields.io/github/followers/Sudaisz?color=blue&style=flat-square"></a>
 <a href="https://github.com/Sudaisz/Infinity-original.git/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sudaisz/Infinity-origina?color=red&style=flat-square"></a>
 <a href="https://github.com/Sudaisz/Infinity-original.git/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Sudaisz/Infinity-original?color=green&style=flat-square"></a>
-<a href="https://github.com/Sudaisz/INFINITY_AND_BEYOND-MD.git/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/github.com/Sudaisz/INFINITY_AND_BEYOND-MD.git?label=Watchers&color=yellow&style=flat-square"></a>
+<a href="https://github.com/Sudaisz/Infinity_original.git/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/github.com/Sudaisz/Infinity-original.git?label=Watchers&color=yellow&style=flat-square"></a>
 
 #### SETUP 
 ### IF YOU WANNA DEPLOY USING CREDS.JSON ADD THE CREDS TO LIB/SESSIONS FOLDER 
 
-### 1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Sudaisz/INFINITY_AND_BEYOND-MD.git/fork) It
+### 1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Sudaisz/Infinity-original.git/fork) It
 
 ### 2. GET SESSION ID HERE 
 
@@ -42,12 +42,12 @@ AND DEPLOY
 ### DEPLOY ON REPLIT
 IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY (CURRENTLY UNAVAILABLE OPEN THE SITE OR APP MANUALLY FIX LATER)
     <br>
-    <a href='https://replit.com/github.com/Sudaisz/INFINITY_AND_BEYOND-MD.git' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://replit.com/github.com/Sudaisz/Infimity-origin.git' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
     
  ### DEPLOY ON RAILWAY 
 1. Deploy.
     <br>
-    <a href='https://railway.com/github.com/Sudaisz/INFINITY_AND_BEYOND-MD.git' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=render&logoColor=white'/></a>
+    <a href='https://railway.com/github.com/Sudaisz/Infinity_original.git' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=render&logoColor=white'/></a>
 
  ### DEPLOY ON RENDER 
 1. NOT AVAILABLE 
@@ -65,7 +65,7 @@ Add session Id to config.js and then deploy to codespace
 -Contributions to INFINITY_AND_BWYOND-BOT are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 <br>
-    <a href='https://github.com/Sudaisz/INFINITY_AND_BEYOND-MD.git/issues/new/choose' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-REPORT ISSUE-red?style=for-the-badge&logo=railway&logoColor=white'/></a>
+    <a href='https://github.com/Sudaisz/Infinity-original.git/issues/new/choose' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-REPORT ISSUE-red?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
 
 ***
@@ -96,6 +96,6 @@ Add session Id to config.js and then deploy to codespace
 
 ### THANKS TO:
 
-- WASI FOR SESSION ID METHOD
-- ASTRO FOR THE BASE I USED
-- KING FOR SONG DOWNLOADER FIX 
+- BEYOND FOR SESSION ID METHOD
+- TOXXIC FOR THE BASE I USED( I ST0LE IT)
+- BEYOND FOR SONG DOWNLOADER FIX 
