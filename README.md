@@ -9,7 +9,7 @@
     <img alt="INFINITY" width="960" height="720" src="https://tinyurl.com/ry4d6j4d">
 <p align="center">
 <priasgremorybot align="center">
-<a href="https://github.com/Sudaisz/INFINITY_AND_BEYOND-MD.git"><img title="Author" src="https://img.shields.io/badge/Rias Gremory-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Sudaisz/INFINITY_AND_BEYOND-MD.git"><img title="Author" src="https://img.shields.io/badge/Infinity Md-black?style=for-the-badge&logo=github"></a>
 <p align="center">
 <a href="https://github.com/Toxic1239/followers"><img title="Followers" src="https://img.shields.io/github/followers/Sudaisz?color=blue&style=flat-square"></a>
 <a href="https://github.com/Sudaisz/Infinity-original.git/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sudaisz/Infinity-origina?color=red&style=flat-square"></a>
@@ -26,7 +26,7 @@
 <a href='https://malvin-session-fzow.onrender.com/' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
 ### 3. GET CREDS.JSON HERE 
 
-none
+https://malvin-session-fzow.onrender.com
 
 ### STEP 2
 ADD SESSION ID TO YOUR FORKED REPO IN CONFIG.JS
@@ -71,21 +71,21 @@ Add session Id to config.js and then deploy to codespace
 ***
 
 ### LICENSE 
--The RIAS_GREMORY-BOT is released under the [MIT License](https://opensource.org/licenses/MIT).
+-The Infinity_md-Bot is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 -Enjoy the diverse features of the RIAS_GREMORY-BOT  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ***
 ### DEVELOPER:
 **GET In Touch with The Owner**
-- [**On TELEGRAM**](COMING-SOON)
+- [**On TELEGRAM**](https://t.me/Zebro1_bot)
 
 ***
 ### WARNING
 
 - **INFINITY-BOT is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use RIAS-GREMORY at your own risk by keeping this warning in mind.*
+- *Use Infinity-Md at your own risk by keeping this warning in mind.*
   
   #### ```TOTAL REPO VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/Sudaisz/count.svg)
