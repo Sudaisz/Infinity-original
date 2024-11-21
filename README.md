@@ -40,7 +40,7 @@ AND DEPLOY
 
 
 ### DEPLOY ON REPLIT
-IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY 
+IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY (CURRENTLY UNAVAILABLE OPEN THE SITE OR APP MANUALLY FIX LATER)
     <br>
     <a href='https://replit.com/github.com/Sudaisz/INFINITY_AND_BEYOND-MD.git' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
     
