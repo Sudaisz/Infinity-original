@@ -19,7 +19,7 @@
 #### SETUP 
 ### IF YOU WANNA DEPLOY USING CREDS.JSON ADD THE CREDS TO LIB/SESSIONS FOLDER 
 
-### 1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Sudaisz/Infinity-original.git/fork) It
+### 1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://https://github.com/Sudaisz/Infinity-original.git/fork) It
 
 ### 2. GET SESSION ID HERE 
 
